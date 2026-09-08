@@ -1,6 +1,6 @@
 # Papers
 
-**Atiyah Axioms for Topological Quantum Field Theory (Oxford Tutorial):** Summary of the axioms necessary to define an abstract TQFT applied to ground state degeneracies of manifolds, systems of particles, and S-matrices
+**Atiyah Axioms for Topological Quantum Field Theory (Oxford Tutorial):** Summary of the axioms necessary to define an abstract TQFT applied to ground state degeneracies of manifolds, systems of particles, and S-matrices.
 
 **Inflationary Cosmology (Physics 362):** Literature review of classical inflationary cosmology, experimental evidence, and future or alternative hypotheses in the field.
 
