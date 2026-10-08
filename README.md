@@ -8,5 +8,5 @@
 
 **Ratio of the Sides Between a Regular Polygon and an Interior Polygon Formed by its Non-Opposite Diagonal Lines:** Novel proof determining the closed form for the side length of a polygon formed by the diagonals of a larger similar polygon. Published in MathAMATYC Educator Journal.
 
-**Lattice Gauge Theory and Algebraic Quantum Field Thoery:** Using Algebraic QFT axioms to recast quantum field theories (free scalar fields, spinor fields, lattice
+**Lattice Gauge Theory and Algebraic Quantum Field Thoery:** Utilized Algebraic QFT axioms to recast quantum field theories (free scalar fields, spinor fields, lattice
 gauge theory/Yang-Mills theory) through only the algebraic properties of their observables.
