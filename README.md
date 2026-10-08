@@ -7,3 +7,6 @@
 **Quantum Complexity Theory (CS 254):** A survey of current topics in quantum complexity theory, and how fundamental quantum algorithms (e.g. Grover’s, Shor’s) can help to classify the complexity of quantum algorithms compared to classical ones.
 
 **Ratio of the Sides Between a Regular Polygon and an Interior Polygon Formed by its Non-Opposite Diagonal Lines:** Novel proof determining the closed form for the side length of a polygon formed by the diagonals of a larger similar polygon. Published in MathAMATYC Educator Journal.
+
+**Lattice Gauge Theory and Algebraic Quantum Field Thoery:** Using Algebraic QFT axioms to recast quantum field theories (free scalar fields, spinor fields, lattice
+gauge theory/Yang-Mills theory) through only the algebraic properties of their observables.
